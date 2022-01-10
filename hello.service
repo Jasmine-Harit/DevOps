@@ -1,0 +1,9 @@
+[Unit]
+Description="MY FIRST FILE"
+
+[Service]
+ExecStart=/home/knoldus/hello.sh
+
+[Install]
+WantedBy=multi.user.target
+
