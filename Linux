@@ -1,4 +1,4 @@
-DAY 2
+DAY 1
 Q1. What things does kernel manage?
 Ans. 1. Kernel takes care of how much memory is used to store, where you store.
          2. It determines which processes use the CPU, for how much time, and for what purpose.
@@ -13,7 +13,7 @@ Ans. :!rm filename
           Shift+zz
 Q5. Where are unit files located?
 Ans. /usr/lib/system directory 
-DAY 3
+DAY 2
 Q1. What are absolute paths and relative paths?
 Ans. Absolute path- starts from the root directory and goes up to the actual object (files or   directory)
 Relative path- starts from the current directory and goes up to the actual object. 
