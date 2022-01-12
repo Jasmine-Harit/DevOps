@@ -1,0 +1,34 @@
+DAY 2
+Q1. What things does kernel manage?
+Ans. 1. Kernel takes care of how much memory is used to store, where you store.
+         2. It determines which processes use the CPU, for how much time, and for what purpose.
+        3. It acts as an interpreter between the hardware and processes.
+Q2. Explain the output of the “ls-l” command?
+Ans. It shows all the lists and information about all the files and directories within the system.
+Q3. How to create multiple files with a single command?
+Ans. Using TOUCH command
+Q4. How to delete files in vim editor?
+Ans. :!rm filename
+          Then in terminal
+          Shift+zz
+Q5. Where are unit files located?
+Ans. /usr/lib/system directory 
+DAY 3
+Q1. What are absolute paths and relative paths?
+Ans. Absolute path- starts from the root directory and goes up to the actual object (files or   directory)
+Relative path- starts from the current directory and goes up to the actual object. 
+Q2. What are hard links?
+Ans. The hard link is the copy of the selected file. It accesses the data available in the original file.
+Q3. What does SRV contain and why it is empty?
+Ans. SRV establishes a connection between a service and a service. Whenever an application finds the location of a specific service or a file, it will reach for SRV.
+SRV record begins with (_).
+
+Q4. What does the mnt directory contain?
+Ans. It contains CDROMs, floppy disks, and USB disks.
+Q5. In vim how can we search inside the file?
+Ans. Using / (any word) in the bottom line
+Q6. Difference between wq and q?
+Ans.  Wq- save and quit 
+          q- quit and not saving changes
+Q7. What are hidden files?
+Ans. All the files that start with (.) are hidden files
