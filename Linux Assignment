@@ -1,0 +1,21 @@
+EVALUATION QUESTIONS
+Q1. What is grep command and hyphen used in grep command?
+Ans. Grep command search character pattern in a file like some file is given and we have to search for a string. We can search one string in multiple files.
+Hyphens used in grep command:-
+-c displays the number of the matched line
+-h displays the matched and hidden filename
+ I- ignore the case during matching
+ L- display the files, not line
+ n- display the matched and line number
+Q2. What is sed command?
+Ans. Stands for stream editor, it performs functions like searching, find and replace, insertion or deletion
+Sed ‘s/Linux/Unix/’ file name
+Q3. What is the awk command?
+Ans. Awk command is basically used for pattern scanning and text processing language.
+         It is used to scan a file, it can be used to cut a certain portion from the file and to pull out relevant information from it.
+        -F sets the field separator
+        To print file 
+       Awk ‘{print}’ file name
+
+
+
